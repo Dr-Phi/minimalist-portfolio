@@ -73,25 +73,56 @@
   ],
   "skills": [
     {
-      "name": "Desarrollo Web",
-      "level": "Advanzado",
-      "keywords": ["CSS", "JavaScript", "Astro", "React", "Tailwind"]
+      "name": "HTML",
+      "level": "Avanzado"
     },
     {
-      "name": "Habilidades blandas",
-      "level": "Competencia",
-      "keywords": [
-        "Communication",
-        "Critical Thinking",
-        "Curiosity",
-        "Teamwork",
-        "Solutions"
-      ]
+      "name": "CSS",
+      "level": "Avanzado"
     },
     {
-      "name": "Data Analysis",
-      "level": "Intermedio",
-      "keywords": ["mySQL"]
+      "name": "JavaScript",
+      "level": "Competencia"
+    },
+    {
+      "name": "Astro",
+      "level": "Experto"
+    },
+    {
+      "name": "React",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Tailwind",
+      "level": "Competencia"
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio"
+    },
+    {
+      "name": "GitHub",
+      "level": "Competencia"
+    },
+    {
+      "name": "Communicación",
+      "level": "Competencia"
+    },
+    {
+      "name": "Trabajo en equipo",
+      "level": "Competencia"
+    },
+    {
+      "name": "Creatividad",
+      "level": "Competencia"
+    },
+    {
+      "name": "Analisis de Datos",
+      "level": "Intermedio"
     }
   ],
   "languages": [
