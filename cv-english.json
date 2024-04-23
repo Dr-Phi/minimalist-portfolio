@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Elias Rojas",
+    "label": "Web Developer with Data knowledge",
+    "image": "",
+    "email": "eliasrojaslon@gmail.com",
+    "phone": "+57 (111) 222-3344",
+    "url": "/me.webp",
+    "summary": "I am a person passionate about learning, who believes in the potential of the internet, communication and digital tools to advance in any field. I am eager to be part of this great leap in human development by making meaningful contributions to your business.",
+    "location": {
+      "address": "Street 123 # 45-67",
+      "postalCode": "055410",
+      "city": "Medellín",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "El As Dev",
+        "url": "https://twitter.com/Elias369l"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Elias Rojas",
+        "url": "https://www.linkedin.com/in/elias-rojas-l/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Summit Health",
+      "position": "Advisor I",
+      "url": "https://www.summithealth.com/",
+      "startDate": "2023-04-01",
+      "endDate": "2023-07-01",
+      "summary": "Answer general questions, send messages and requests for exams, providing administrative support to doctors and nurses.",
+      "highlights": ["Yes"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Antioquia",
+      "url": "https://www.udea.edu.co/",
+      "area": "Physical education",
+      "studyType": "Bachelor",
+      "startDate": "2019-01-01",
+      "endDate": "2022-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Data Analytics Bootcamp",
+      "date": "2024-26-02",
+      "issuer": "Le Wagon",
+      "url": "https://kitt.lewagon.com/schoolings/36136/public_diploma?token=dd9f70847cc449d32fc314a97f120e147b2014024b34a0178aae8706598f96ba"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": ["CSS", "JavaScript", "Astro", "React", "Tailwind"]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Proficiency",
+      "keywords": [
+        "Communication",
+        "Critical Thinking",
+        "Curiosity",
+        "Teamwork",
+        "Solutions"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Intermediate",
+      "keywords": ["mySQL"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "useCinema",
+      "isActive": true,
+      "description": "Web application to search info about movies, series and rate the ones already seen.",
+      "highlights": [
+        "Busca pelis y series",
+        "Mantén un registro de las vistas",
+        "Calificalas"
+      ],
+      "url": "https://dr-phi.github.io/cinema-app-react/"
+    },
+    {
+      "name": "Vagallery",
+      "isActive": true,
+      "description": "Website containing a gallery of selected images from the Vagabond manga.",
+      "highlights": ["Hecha con vanilla HTML, CSS"],
+      "url": "https://dr-phi.github.io/vagallery/"
+    },
+    {
+      "name": "Social Proof Section",
+      "isActive": true,
+      "description": "A responsive (mobile-first) section of a website that shows testimonials from users.",
+      "highlights": ["Made with SCSS", "CSS Flexbox", "Following a design"],
+      "url": "https://github.com/Dr-Phi/social-proof-section"
+    }
+  ]
+}
